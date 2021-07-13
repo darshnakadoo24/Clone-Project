@@ -1,1 +1,1 @@
-# Clone-Project
+# Mini Teams-Project
